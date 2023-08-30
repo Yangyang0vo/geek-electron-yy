@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run: 
 ### `npm run dev` 
-启动项目 通过concurrently 合并允许 electron 和 react
+启动项目 通过concurrently 合并运行 electron 和 react
 
 ### `npm start`
 
